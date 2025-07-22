@@ -1,23 +1,23 @@
 # Kidney-Disease-Detection-using-ML-with-XAI
-## 📘 Project Overview
+## Project Overview
 
 Chronic Kidney Disease (CKD) is a serious public health issue affecting millions worldwide. Early and accurate prediction of CKD can improve patient outcomes and reduce healthcare costs. This project focuses on building robust machine learning models to classify CKD cases using clinical data, with a strong emphasis on model interpretability through Explainable AI (XAI) techniques such as SHAP and LIME.
 
-## 🎯 Objectives
+## Objectives
 
 - ✅ Predict CKD using various supervised ML algorithms.
 - ✅ Compare model performance based on key evaluation metrics.
 - ✅ Apply XAI methods to make model predictions interpretable.
 - ✅ Provide insights to aid healthcare professionals in decision-making.
 
-## 🗃️ Dataset
+## Dataset
 
 - **Source**: [UCI Machine Learning Repository - CKD Dataset](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease)
 - **Records**: 1200 patients
 - **Features**: 26 clinical attributes
 - **Target Variable**: CKD status (`ckd` or `notckd`)
 
-## 🧠 Models Implemented
+## Models Implemented
 
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
@@ -26,7 +26,7 @@ Chronic Kidney Disease (CKD) is a serious public health issue affecting millions
 - Random Forest
 - Ensemble Methods (Voting Classifier)
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 Each model is evaluated using:
 - Accuracy
@@ -36,7 +36,7 @@ Each model is evaluated using:
 - ROC-AUC Score
 - Confusion Matrix
 
-## 🧪 Explainable AI (XAI) Techniques
+## Explainable AI (XAI) Techniques
 
 | Technique | Purpose |
 |----------|---------|
