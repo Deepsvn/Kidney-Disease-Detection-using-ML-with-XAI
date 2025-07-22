@@ -5,10 +5,10 @@ Chronic Kidney Disease (CKD) is a serious public health issue affecting millions
 
 ## Objectives
 
-- ✅ Predict CKD using various supervised ML algorithms.
-- ✅ Compare model performance based on key evaluation metrics.
-- ✅ Apply XAI methods to make model predictions interpretable.
-- ✅ Provide insights to aid healthcare professionals in decision-making.
+- Predict CKD using various supervised ML algorithms.
+- Compare model performance based on key evaluation metrics.
+- Apply XAI methods to make model predictions interpretable.
+- Provide insights to aid healthcare professionals in decision-making.
 
 ## Dataset
 
