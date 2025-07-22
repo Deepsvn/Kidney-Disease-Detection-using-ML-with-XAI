@@ -42,10 +42,3 @@ Each model is evaluated using:
 |----------|---------|
 | **SHAP** | Explains individual predictions using Shapley values, offering global and local model insights. |
 | **LIME** | Builds local surrogate models to explain individual predictions in a human-interpretable way. |
-
-## 📌 Requirements
-
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
